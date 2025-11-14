@@ -1,6 +1,4 @@
-# SuperStore-Global-Retailer-
-Using PowerBi to visualize meaningful insights on dashboards
-# UNIGAP - PORTFOLIO BUILDING MODULE -  PBI TEMPLATE
+
 
 🔥Use this template as an outline for your Github projects. Make a copy of this readme file and tailor it your own. Happy portfolio-ing and start applying aggressively :"))
 
@@ -10,20 +8,17 @@ Using PowerBi to visualize meaningful insights on dashboards
 Change Icon emoji 🔥🔍📘🚩 to your likings by clicking "Start" + "."
 
 
-# 📊 Your Project Name [ Business question + Domain + Tools ]  
-
- _Example:_
- _Analyze & Discover the User Churnsinsight of Databel – a Telecomproviders| SQL & PowerBI_
+# 📊 Global SuperStore Sales & Expansion strategy | Ecommerce | Power BI
  
-_+ Business question: The core problems/ the core questions that this project solves/ answers -> User Churn Analysis_
+_+ Business question: The core questions of this project is showing important indicators for Senior Manager to decide in which markets to develop and which products are suitable for each international market.
 
-_+ Domain: Domain/ Industry that this projects focus on --> a Telecomproviders_
+_+ Domain: E-commerce
 
 **_📌You need to show that your projects are applicable to real business use cases, for a particular industry, not just "learning projects"_**
 
-Author: [Your Name]  
-Date: YYYY-MM-DD  
-Tools Used: SQL/ Power BI/ Python  
+Author: Tran Huu Tran Phong 
+Date: 14/11/2025 
+Tools Used: SQL/ Power BI 
 
 ---
 
@@ -75,115 +70,74 @@ Tools Used: SQL/ Power BI/ Python
 
 #### 2️⃣ Table Schema & Data Snapshot  
 
-Table Schema:
-
-  <img width="1143" height="660" alt="Capture" src="https://github.com/user-attachments/assets/3f59a5b0-3752-44bd-b638-7e4b3a071c42" />
-
-
-
 Table 1: Orders 
 
 👉🏻 Insert a screenshot of table schema. if table is too long, only show a snapshot of it. Recommend to put it in a toggle format
 
- _Example:_
+<img width="799" height="608" alt="ord1" src="https://github.com/user-attachments/assets/a07f2b1a-9861-4468-9428-775a2eec7886" />
 
-| Column Name | Data Type | Description |  
-|-------------|----------|-------------|  
-| Product_ID  | INT      | Unique identifier for each product |  
-| Name        | TEXT     | Product name |  
-| Category    | TEXT     | Product category |  
-| Price       | FLOAT    | Price per unit |  
-| Price       | FLOAT    | Price per unit | 
-| Price       | FLOAT    | Price per unit | 
-| Price       | FLOAT    | Price per unit | 
-
-
-
-Table 2: Sales Transactions  
+Table 2: Sales   
 
 👉🏻 Insert a screenshot of table schema. if table is too long, only show a snapshot of it. Recommend to put it in a toggle format
+<img width="662" height="166" alt="sale1" src="https://github.com/user-attachments/assets/12254693-82c3-49be-b820-dd865de81b4e" />
 
+Table 3: Returns
 
- _Example:_
+<img width="587" height="166" alt="ret1" src="https://github.com/user-attachments/assets/53a22f38-1070-4c27-84d5-a0f83bdcea63" />
 
-| Column Name    | Data Type | Description |  
-|---------------|----------|-------------|  
-| Transaction_ID | INT      | Unique identifier for each sale |  
-| Product_ID     | INT      | Foreign key linking to Products table |  
-| Quantity       | INT      | Number of items sold |  
-| Sale_Date      | DATE     | Date of transaction |  
-
-
-**_📌If the table is too big, only capture a part of it that contains key metrics you used in the projects or put the table in toggle_**
-
-<details>
-<summary>Click to toggle</summary>
-
-This content is hidden by default and will expand/collapse when clicked.
-
-You can add more details here, like code blocks, lists, or images.
-</details>
 
 #### 3️⃣ Data Relationships:  
-Describe the connections between tables—e.g., one-to-many, many-to-many.  
 
-👉🏻 Include a screenshot of Data Modeling to visualize relationships.  
+ <img width="1143" height="660" alt="Capture" src="https://github.com/user-attachments/assets/0d42b08c-5c61-47c4-a135-634fcbd92dcb" />
 
 ---
 
-## 🧠 Design Thinking Process  
-
-Explain the step-by-step approach taken to solve the problem.  
+## 🧠 Design Thinking Process   
 
 👉🏻 Insert a screenshot of the Design Thinking steps (Screenshot your Excel design thinking tables for better presentation).  
 
 1️⃣ Empathize  
+
+
 2️⃣ Define point of view  
+
+
 3️⃣ Ideate  
+
+
 4️⃣ Prototype and review  
 
-**_📌Use Canva/ Powerpoint to change the format of your Design thinking table, making it more visually pleasant_**
----
 
-## ⚒️ Main Process
-
-**_📌If your project involves SQL as 1st part of data preprocessing, do this part, or else you can skip this part and jump directly into the Visualization part_**
-
-1️⃣ Data Cleaning & Preprocessing 
-2️⃣ Exploratory Data Analysis (EDA)  
-3️⃣ SQL/ Python Analysis 
-
-- In each step, show your Code
-
-- Include query/ code execution screenshots or result samples
-
-- Explain its purpose and its findings
-
-
-4️⃣ Power BI Visualization  (applicable for PBI Projects)
-
----
 
 ## 📊 Key Insights & Visualizations  
 
 ### 🔍 Dashboard Preview  
 
-#### 1️⃣ Dashboard 1 Preview  
+#### 1️⃣ Dashboard 1: Overview
 👉🏻 Insert Power BI dashboard screenshots here  
+
+<img width="1155" height="652" alt="overview" src="https://github.com/user-attachments/assets/3c001ab3-017b-4ace-b675-f6d232194df8" />
+
 
 📌 Analysis 1:  
 - Observation: _Describe trends, key metrics, and patterns. Any insights from those observation_  
 - Recommendation: _Suggest actions based on insights._  
 
-#### 2️⃣ Dashboard 2 Preview  
+#### 2️⃣ Dashboard 2: Product
 👉🏻 Insert Power BI dashboard screenshots here
+
+<img width="1156" height="653" alt="product" src="https://github.com/user-attachments/assets/72dce4f6-285f-4710-b0d3-5efac74b6e15" />
+
 
 📌 Analysis 2:   
 - Observation: _Describe trends, key metrics, and patterns. Any insights from those observation_  
 - Recommendation: _Suggest actions based on insights._  
 
-#### 3️⃣ Dashboard 3 Preview  
+#### 3️⃣ Dashboard 3: Region  
 👉🏻 Insert Power BI dashboard screenshots here  
+
+<img width="1158" height="655" alt="region" src="https://github.com/user-attachments/assets/f84a5b76-e8dc-4010-91b5-efbc4d135bcd" />
+
 
 📌 Analysis 3:  
 - Observation: _Describe trends, key metrics, and patterns. Any insights from those observation_  
