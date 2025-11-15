@@ -1,24 +1,21 @@
 
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/37a7dfec-3d4c-4975-942c-a8b839e76d33" />
 
-🔥Use this template as an outline for your Github projects. Make a copy of this readme file and tailor it your own. Happy portfolio-ing and start applying aggressively :"))
-
----
-![E-commerce Website_Analysis](https://github.com/Dorothy-Ho-Vy/Sample-Readme-template/blob/0e47d32968459ec80d7d2666fbf5044ac56894e6/1.png)
 
 Change Icon emoji 🔥🔍📘🚩 to your likings by clicking "Start" + "."
 
 
 # 📊 Global SuperStore Sales & Expansion strategy | Ecommerce | Power BI
  
-_+ Business question: The core questions of this project is showing important indicators for Senior Manager to decide in which markets to develop and which products are suitable for each international market.
+ + Business question: The core questions of this project is showing important indicators for Senior Manager to decide in which markets to develop and which products are suitable for each international market.
 
-_+ Domain: E-commerce
+ + Domain: E-commerce
 
 **_📌You need to show that your projects are applicable to real business use cases, for a particular industry, not just "learning projects"_**
 
 Author: Tran Huu Tran Phong 
 Date: 14/11/2025 
-Tools Used: SQL/ Power BI 
+Tools Used: Power BI 
 
 ---
 
@@ -38,7 +35,7 @@ Tools Used: SQL/ Power BI
  
 - Superstore is a rapidly developing company with a global business scale, spanning multiple markets and continents. This dataset compiles Superstore's worldwide sales information. Currently, the company is focused on the goal of increasing revenue in these markets to strongly drive market share expansion.
 
-- This project analyzes sales trends and inventory control using SQL and Power BI. The objective is
+- This project analyzes sales trends and inventory control using Power BI. The objective is
 ✔️ Identify high-demand products and sales trends.  
 ✔️ Presenting business situation in international markets to Senior Manager.
 ✔️ Highlight important indicators for Senior Manager to decide in which markets to develop and which products are suitable for each international market through Power BI dashboards.. 
@@ -118,7 +115,7 @@ Table 3: Returns
 
 
 📌 Analysis 1:  
-- Observation: Overall, we can see that Sales and Profit showed an upward trend over the years. EMEA and Africa have a high quantity of successful products sold. On the other hand, regions such as APAC, LATAM, US, and EU accounted for the majority of returned products. OfFice Supplies was a good category with 60.7%
+- Observation: Overall, we can see that Sales and Profit showed an upward trend over the years. EMEA and Africa had a high quantity of successful products sold. On the other hand, markets such as APAC, LATAM, US, and EU accounted for the majority of returned products. OfFice Supplies was a good category with 60.7%
 - Insight 1:
    - Growth Trend:	Sales and Profit show a promising upward trend over the years.	The overall business model and global expansion strategy are fundamentally working and gaining momentum.
    - Successful Markets	EMEA and Africa have a high quantity of successful products sold.	These markets have strong product-market fit, efficient logistics, or high customer satisfaction, leading to a high success rate (low returns).
@@ -146,22 +143,32 @@ Table 3: Returns
   - Leverage High-Margin Products: Double down on cross-selling high-ROS items (Paper, Art, Labels) with high-volume categories to improve the overall transaction margin.
 
 #### 3️⃣ Dashboard 3: Region  
-👉🏻 <img width="1158" height="655" alt="region" src="https://github.com/user-attachments/assets/f84a5b76-e8dc-4010-91b5-efbc4d135bcd" />
+👉🏻 <img width="1275" height="728" alt="region" src="https://github.com/user-attachments/assets/d65f92ef-9034-4391-a50b-838531eee583" />
 
 📌 Analysis 3:  
-- Observation: _Describe trends, key metrics, and patterns. Any insights from those observation_  
-- Recommendation: _Suggest actions based on insights._  
+- Observation: Central and South were the two regions that had the largest quantity of goods sold among all regions, which also corresponded to high total sales and total profit. Meanwhile, Canada was the region that recorded the lowest total profit and total sales compared to the other regions, but it experienced the highest return rate.
 
----
+- Insights:
+   - The combination of high volume and high profit of Central and South suggests that operations in these large regions are highly optimized. Supply chain, logistics, and operational cost management here are likely efficient, enabling Superstore to handle large order volumes while maintaining healthy profit margins. These regions represent the company's operational strength.
+
+   - A high return rate in a low-volume market (Canada) is a dangerous indicator of operational inefficiency. Even with low sales, the cost of processing returns (reverse logistics, inspection, repackaging) will consume a very large proportion of the total profit, potentially leading to a net loss at the regional level (mirroring the issue seen with Tables). This likely stems from:
+
+- Recommendation:  
+  - Analyze the successful operational and cost management processes in Central and South to replicate them elsewhere.
+
+  - An urgent cost/quality audit is needed in Canada. If the return rate cannot be brought down to an acceptable level, the company may need to scale back or temporarily suspend certain product lines in that region until the supply chain is fixed, preventing this small market from draining overall profitability.
 
 ## 🔎 Final Conclusion & Recommendations  
 
 👉🏻 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following:  
 
-📌 Key Takeaways:  
-✔️ Recommendation 1  
-✔️ Recommendation 2  
-✔️ Recommendation 3
+📌 The Core Strategy: Profitability First
 
-**_📌Remember to summarize the most core insights/ observations you extract from the entire projects. 
- Recap ONLY key actions/ recommendations. DO NOT copy paste everything above_**
+ ✔️Eliminate the Loss Leaders: Urgently address the products with negative ROS, primarily Tables and Machines. If rapid cost negotiation or price increases cannot move them to profitability, they should be strategically phased out to instantly raise the company's overall ROS and free up capital.
+ ✔️Mitigate Return Risks: Launch a priority audit focused on quality control and logistics in the high-return markets (APAC, US, EU) and the high-risk small market (Canada). Reducing the return rate is the most effective way to protect existing profit margins in key revenue markets.
+
+📌 Strategy for Expansion
+
+ ✔️Replicating Success: Analyzing and scaling the highly efficient operational models used in the Central and South regions to other high-potential areas.
+ ✔️Targeting High-ROS Growth: Shifting marketing and sales efforts toward bundling or cross-selling high-margin items (Paper, Art, Labels) to improve the transaction profitability of the high-volume categories (Technology, Furniture).
+
