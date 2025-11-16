@@ -36,9 +36,12 @@ Tools Used: Power BI
 - Superstore is a rapidly developing company with a global business scale, spanning multiple markets and continents. This dataset compiles Superstore's worldwide sales information. Currently, the company is focused on the goal of increasing revenue in these markets to strongly drive market share expansion.
 
 - This project analyzes sales trends and inventory control using Power BI. The objective is
-✔️ Identify high-demand products and sales trends.  
-✔️ Presenting business situation in international markets to Senior Manager.
-✔️ Highlight important indicators for Senior Manager to decide in which markets to develop and which products are suitable for each international market through Power BI dashboards.. 
+  
+  ✔️ Identify high-demand products and sales trends.
+  
+  ✔️ Presenting business situation in international markets to Senior Manager.
+  
+  ✔️ Highlight important indicators for Senior Manager to decide in which markets to develop and which products are suitable for each international market through Power BI dashboards.. 
 
 
 ### 👤 Who is this project for?  
@@ -67,20 +70,17 @@ Tools Used: Power BI
 
 #### 2️⃣ Table Schema & Data Snapshot  
 
-Table 1: Orders 
+ - Table 1: Orders 
 
-👉🏻 Insert a screenshot of table schema. if table is too long, only show a snapshot of it. Recommend to put it in a toggle format
+   <img width="799" height="608" alt="ord1" src="https://github.com/user-attachments/assets/a07f2b1a-9861-4468-9428-775a2eec7886" />
 
-<img width="799" height="608" alt="ord1" src="https://github.com/user-attachments/assets/a07f2b1a-9861-4468-9428-775a2eec7886" />
+ - Table 2: Sales   
 
-Table 2: Sales   
+   <img width="662" height="166" alt="sale1" src="https://github.com/user-attachments/assets/12254693-82c3-49be-b820-dd865de81b4e" />
 
-👉🏻 Insert a screenshot of table schema. if table is too long, only show a snapshot of it. Recommend to put it in a toggle format
-<img width="662" height="166" alt="sale1" src="https://github.com/user-attachments/assets/12254693-82c3-49be-b820-dd865de81b4e" />
+ - Table 3: Returns
 
-Table 3: Returns
-
-<img width="587" height="166" alt="ret1" src="https://github.com/user-attachments/assets/53a22f38-1070-4c27-84d5-a0f83bdcea63" />
+   <img width="587" height="166" alt="ret1" src="https://github.com/user-attachments/assets/53a22f38-1070-4c27-84d5-a0f83bdcea63" />
 
 
 #### 3️⃣ Data Relationships:  
@@ -95,15 +95,22 @@ Table 3: Returns
 
 1️⃣ Empathize  
 
+ <img width="1000" height="500" alt="e1" src="https://github.com/user-attachments/assets/09509c34-cede-46db-889a-6ad1452b7622" /> 
+ <img width="1000" height="500" alt="e2" src="https://github.com/user-attachments/assets/65d57a39-2a66-4eab-91fd-27bfb3e262e4" />
+
+
 
 2️⃣ Define point of view  
+
+ <img width="1000" height="500" alt="d1" src="https://github.com/user-attachments/assets/563b9dad-6225-4ad5-aeba-fd2dfc6b6cd6" />
+ <img width="1000" height="500" alt="d2" src="https://github.com/user-attachments/assets/f9328497-c40b-456a-b03f-419a1e174385" />
+
 
 
 3️⃣ Ideate  
 
-
-4️⃣ Prototype and review  
-
+ <img width="533" height="644" alt="b1" src="https://github.com/user-attachments/assets/d4435160-13b7-48b2-b927-6096c1e84b17" />
+ <img width="1000" height="500" alt="b2" src="https://github.com/user-attachments/assets/d8600863-a307-400c-8f8c-5322f3d07a32" />
 
 
 ## 📊 Key Insights & Visualizations  
