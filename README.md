@@ -1,9 +1,5 @@
-
+          
 <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/37a7dfec-3d4c-4975-942c-a8b839e76d33" />
-
-
-Change Icon emoji 🔥🔍📘🚩 to your likings by clicking "Start" + "."
-
 
 # 📊 Global SuperStore Sales & Expansion strategy | Ecommerce | Power BI
  
